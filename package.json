@@ -1,0 +1,23 @@
+{
+  "name": "github-labels-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaki-yama-labs/github-labels-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zaki-yama-labs/github-labels-playground/issues"
+  },
+  "homepage": "https://github.com/zaki-yama-labs/github-labels-playground#readme",
+  "dependencies": {
+    "@azu/github-label-setup": "^4.0.0"
+  }
+}
